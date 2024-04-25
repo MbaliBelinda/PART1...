@@ -84,10 +84,23 @@ LINE BY LINE EXPLANATION OF MY CODE
 
   
    double scaledQuantity = quantities[i] * scaleFactor;
+
+To run this recipe app code, follow these steps:
+
+1.	Open a C# IDE (such as Visual Studio) on your computer.
+2.	Compile and run the code by clicking on the "Start" or "Run" button in the IDE.
+3.	The program will prompt you to enter the number of ingredients and steps for the recipe.
+4.	Enter the number of ingredients and steps as requested.
+5.	Then, enter each ingredient and step one by one when prompted.
+6.	After entering all the ingredients and steps, the program will display the original recipe.
+7.	The program will then ask if you want to scale the recipe by a factor of 0.5, 2, or 3.
+8.	Enter the desired scale factor when prompted.
+9.	The program will then display the scaled recipe based on the entered factor.
+
   
    The quantities of each ingredient are then scaled according to the provided factor.
 
-7. **Resetting Quantities and Clearing Data**:
+8. **Resetting Quantities and Clearing Data**:
    The program allows the user to reset quantities to their original values and to clear all data to enter a new recipe, as per user choice.
 
 That's a comprehensive breakdown of each part of your code! Let me know if you have any questions or if you'd like to add any specific functionalities.# PART1
